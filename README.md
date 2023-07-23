@@ -1,3 +1,3 @@
 # WpfTest
 
-[![Ci](https://github.com/Bodden007/WpfTest/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/Bodden007/WpfTest/actions/workflows/main.yml)
+![Deploy badge](https://github.com/Bodden007/WpfTest/actions/workflows/main.yml/badge.svg)
